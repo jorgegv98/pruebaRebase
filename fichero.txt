@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 wefgrw
 sadvsdvsdv
 sdvsrvs
+=======
+wefgrwwf
+>>>>>>> 1f20c4c... feat(1):jorge
